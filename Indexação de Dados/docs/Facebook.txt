@@ -1,0 +1,5 @@
+Um órgão regulador da Coreia do Sul multou o Facebook em 6,7 bilhões de won (ou R$ 32,2 milhões em conversão direta de moeda) por compartilhar informações de usuários da rede social com outras empresas sem a autorização dos cadastrados.
+
+A denúncia foi realizada pela Comissão de Proteção às Informações Pessoais (PIPC) e afirma que o Facebook violou a privacidade de até 3,3 milhões de usuários da plataforma no país, o que representa cerca de 16% do total da base de acessos na Coreia do Sul.
+
+As informações enviadas incluem nome, endereço, data de nascimento, experiências de trabalho, cidade-natal e status de relacionamento. Elas eram coletadas quando os usuários se cadastravam em determinados serviços usando a conta no login, como em testes ou sites, por exemplo. O compartilhamento com terceiros ocorreu entre maio de 2012 e junho de 2018 envolvendo até 10 mil empresas e, em alguns casos, até informações pessoais de amigos dos contatos foram compartilhados com essas outras companhias.

@@ -1,0 +1,7 @@
+Os dados pessoais e médicos de pelo menos 16 milhões de pessoas com diagnóstico suspeito ou confirmado de covid-19 ficaram expostos durante quase 30 dias, após um vazamento de senhas do Ministério da Saúde. A informação foi divulgada pelo jornal O Estado de S.Paulo, nessa quinta-feira (26).
+
+Ao contrário do que acontece em outras situações de vazamentos de dados, não houve nenhum ataque hacker. De acordo com a publicação, as informações ficaram expostas após um funcionário do Hospital Albert Einstein publicar uma planilha contendo usuários e senhas para acesso ao banco de dados de pacientes testados, diagnosticados e internados.
+
+Publicados no GitHub, os dados de login davam acesso aos registros de informações sobre a doença causada pelo novo coronavírus em dois sistemas federais. No E-SUS-VE, são notificados os casos confirmados e suspeitos de pacientes com quadros leves e moderados, enquanto no Sivep-Gripe há os registros mais graves.
+
+balela

@@ -1,0 +1,5 @@
+Lançado em 2009, a versão 7 do Windows ainda resiste em milhões de PCs mundo afora, mesmo depois de a Microsoft ter encerrado o suporte e o envio de atualizações em janeiro deste ano. A ajuda agora vem de qualquer lugar, principalmente quando novas falhas de segurança são descobertas, como acaba de ocorrer.
+
+Ao usar uma ferramenta para avaliar problemas nas configurações de privilégios, o especialista em segurança Clément Labro, do site itm4n> descobriu que duas chaves do registro podem ser acessadas por qualquer utilizador.
+
+Segundo ele, "quando executei o script atualizado em uma instalação padrão do Windows 10, nada apareceu, o que foi o resultado que eu esperava.

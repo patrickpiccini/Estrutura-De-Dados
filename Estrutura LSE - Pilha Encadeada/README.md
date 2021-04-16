@@ -1,1 +1,0 @@
-### Implementação de pilha encadeada com base na LSE

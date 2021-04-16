@@ -1,1 +1,1 @@
-Objetivo: mostrar o a carta do topo de cada pilhas de cartas
+Objetivo: mostrar a carta do topo de cada pilhas de cartas

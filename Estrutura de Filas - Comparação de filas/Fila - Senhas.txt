@@ -1,0 +1,66 @@
+class Fila:    
+    def __init__(self):
+        self._vet = []
+    
+    def enqueue(self, item): # enfileirar
+        self._vet.append(item)
+    
+    def dequeue(self): # desenfileirar
+        if not self.is_empty():
+            return self._vet.pop(0)
+
+    def front(self): # mostrar o 1o da fila, sem remover!
+        return self._vet[0]
+                
+    def is_empty(self): # retorna se a fila esta vazia
+        if len(self._vet) == 0:
+            return True
+        return False
+        
+    def __len__(self):
+        return len(self._vet)
+
+    def __str__(self): # representacao da fila como string
+        return str(self._vet)
+
+## Desafio ##
+if __name__ == "__main__":
+
+    fila1 = Fila()
+    fila1.enqueue('1')
+    fila1.enqueue('8')
+    fila1.enqueue('3')
+    fila1.enqueue('4')
+    fila1.enqueue('5')
+
+    fila2 = Fila()
+    fila2.enqueue('7')
+    fila2.enqueue('2')
+    fila2.enqueue('3')
+    fila2.enqueue('4')
+    fila2.enqueue('5')
+   
+    
+    if len(fila1) > len(fila2):
+        tamanho = len(fila1)
+    else:
+        tamanho = len(fila2)
+
+
+    
+    for i in range(tamanho):
+        f1 = fila1.front()
+        f2 = fila2.front()
+        if f1 in f2:
+            print("tem na fila:",fila1.front())
+            fila1.dequeue()
+            fila2.dequeue()
+        
+        else:
+            print("Não tem na fila")
+            fila1.dequeue()
+            fila2.dequeue()
+
+            
+            
+        
